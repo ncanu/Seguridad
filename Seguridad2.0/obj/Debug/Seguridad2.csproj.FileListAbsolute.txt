@@ -1,0 +1,415 @@
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Documents\Visual Studio 2015\Projects\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+C:\Users\Andrés\Documents\dll&Menu\Seguridad2.0\Seguridad2.0\bin\Debug\BITACORA.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\vhjim\Desktop\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\BITACORA.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+\\VBOXSVR\shared\2709\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+C:\Users\vhjim\Desktop\canu\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+C:\Users\josea\Desktop\Seguridad2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\BITACORA.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+\\VBOXSVR\shared\2711\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe.config
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.exe
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\Seguridad2.0.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDiseno.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\gestionPerfiles.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\logica.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaCambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoModulos.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoAplicaciones.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogicaMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosMantenimientoUsuarios.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaLogica.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\MySql.Data.xml
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\datos.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatosCambioDeHost.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaDatos.pdb
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csprojResolveAssemblyReference.cache
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Form1.resources
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2._0.Properties.Resources.resources
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\obj\Debug\Seguridad2.csproj.GenerateResource.Cache
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazIngresoModulos.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoAplicaciones.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CambioDeHost.dll
+C:\Users\vhjim\Desktop\canu2\Seguridad2.0\Seguridad2.0\bin\Debug\CapaInterfazMantenimientoUsuarios.dll
